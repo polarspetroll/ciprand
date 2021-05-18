@@ -8,7 +8,7 @@ Random String Generator API
 - count => number of random strings to be generate (default 1)
 
 ```
-curl http://localhost/api?count=10&len=40
+curl https://RandAPI.polarspetroll.repl.co/api?count=10&len=40
 ```
 
 ##### Environment Variables :
