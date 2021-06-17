@@ -1,4 +1,4 @@
-# RandAPI
+# Ciprand
 
 Random String Generator API
 
