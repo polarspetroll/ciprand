@@ -36,3 +36,6 @@ curl https://ciprand.p3p.repl.co/api?len=20&count=10
 ##### Environment Variables :
 
 - PORT => Listen Port
+
+
+This API uses reverse proxy for handling traffic. Make sure to pass the URL parameters.
