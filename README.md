@@ -1,11 +1,11 @@
 # Ciprand
 
-Random String Generator API
+Random string generator API
 
 ### Parameters :
 
-- len => length of the strings (default 10)
-- count => number of random strings to be generated (default 1)
+- len => Length of the strings (default 10)
+- count => Number of random strings to be generated (Default 1)
 ---
 
 ```
@@ -35,7 +35,7 @@ curl https://ciprand.p3p.repl.co/api?len=20&count=10
 
 ##### Environment Variables :
 
-- PORT => Listen Port
+- PORT => Listen port
 
 
 This API uses reverse proxy for handling traffic. Make sure to pass the URL parameters.
